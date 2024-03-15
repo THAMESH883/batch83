@@ -1,0 +1,8 @@
+ls
+git config --global user.name thamesh
+git config --global user.email thamesh@gmail.com
+git config --global --unset user.name
+git config --global --unset user.name
+got config --list
+touch 
+ls
